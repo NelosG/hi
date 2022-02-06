@@ -1,0 +1,9 @@
+resolver: lts-18.5
+
+packages:
+- .
+
+
+flags: {}
+
+extra-package-dbs: []
